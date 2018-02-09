@@ -1,5 +1,5 @@
-pkg_name="hugo"
-pkg_origin="cnunciato"
+pkg_name=hugo
+pkg_origin=cnunciato
 pkg_version="0.32.4"
 pkg_maintainer="Christian Nunciato <chris@nunciato.org>"
 pkg_license=("MIT")
